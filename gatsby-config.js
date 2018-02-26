@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Panda Eating Lots!',
+    title: 'Aman Mender',
   },
   plugins: [
     {
@@ -12,11 +12,30 @@ module.exports = {
     },
     `gatsby-transformer-remark`,
     `gatsby-plugin-glamor`,
+    `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-plugin-typography`,
       options: {
         pathToConfigModule: `src/utils/typography`,
       },
     },
+    {
+      resolve: `gatsby-plugin-favicon`,
+      options: {
+        logo: "./src/favicon.ico",
+        injectHTML: true,
+        icons: {
+          android: true,
+          appleIcon: true,
+          appleStartup: true,
+          coast: false,
+          favicons: true,
+          firefox: true,
+          twitter: false,
+          yandex: false,
+          windows: false
+        }
+      }
+    }
   ],
 };

@@ -4,8 +4,8 @@ export default ({data}) => (
   <div>
     <h1>{data.site.siteMetadata.title}</h1>
     <p>
-      We're the only siter running on your computer dedicated to showing the best
-      photos and videos of pandas eating lots of food.
+      Hi, my name is Aman. I am 27 years old developer entrepreneur, and aspiring tinker.
+      I want to tinker with the universe, and everything it has to offer.
     </p>
   </div>
 );
