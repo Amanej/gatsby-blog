@@ -3,7 +3,7 @@ import g from "glamorous";
 import { css } from "glamor";
 import Link from "gatsby-link";
 import Helmet from 'react-helmet';
-//import favicon from './static/favicon.ico'
+import Footer from '../components/Footer/';
 
 import { rhythm } from "../utils/typography";
 
@@ -41,6 +41,7 @@ export default ({ children, data }) => (
       </Link>
       {children()}
     </g.Div>
+    <Footer></Footer>
   </div>
 );
 
