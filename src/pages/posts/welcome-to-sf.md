@@ -5,14 +5,14 @@ tags: "travel, us, startup"
 ---
 
 <img src="https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/06/20/105284147-GettyImages-673632588.1910x1000.jpg" /> 
-So the October the 1th, I flew to San Francisco as part of my vacation or some sort of tech startup Hajj. My mood was a combination of existing and restraint, as I wanted to be mentally prepared for disappointment upon arriving at such a mythological destination.
+So the October the 1th, I flew to San Francisco as part of my vacation or some sort of tech startup Hajj. My mood was a combination of excitement and restraint, as I wanted to be mentally prepared for disappointment upon arriving at such a famous destination.
 
-I had been franctically looking at temperatures everyday comparing the difference, hoping to land in the California on my escape from the crazy coldness of the Norwegian winter.
+I had been franctically looking at temperatures everyday comparing the difference, hoping to land in the warm California sun on my escape from the crazy coldness of the Norwegian winter.
 
-My startup was in disarray due to losing the biggest channel for sales, tired of my day job and didnt really have anything going for me in Oslo except bills. Thats not quite true, but that is how I helped. 
+My startup was in disarray due to losing the biggest channel for sales, tired of my day job and didnt really have anything going for me in Oslo except bills. Thats not quite true, but that is how I felt. 
 And usually nothing gets you motivated to work then going on and adventure.
 
-After a painful experience of working a startup where there was no an explicit desperate need and customers BEATING down my door, I had slightly got a more mature outlook on what it takes.
+After a painful experience of working a startup where there was not an explicit desperate need from customers BEATING down my door, I had slightly got a more mature outlook on what it takes.
 It takes a good idea sure, but there should a problem that people are willing to pay to have solved.
 You need a cash positive to reach these people and get them to buy the product or service at lower per unit cost than it does to deliver the solution.
 
