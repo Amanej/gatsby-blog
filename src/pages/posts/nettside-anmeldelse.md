@@ -28,6 +28,8 @@ Jeg er koder, designer og markedsføringshode i ett, som kan analysere opplevels
 
 ### Designforslag til Lendo
 
-![alt text](https://github.com/Amanej/gatsby-blog/blob/master/static/reviews/lendo/Design_1_Min_side.png "Logo Title Text 1")
+Jeg er ikke bare kritisk, men konstruktiv så sketchet et raskt forslag på hvordan et ryddigere mine sider kunne sett ut for lendo.
 
-![alt text](https://github.com/Amanej/gatsby-blog/blob/master/static/reviews/lendo/Design_2_Fullf%C3%B8r.png "Logo Title Text 1")
+![Lendo - Mine sider - Design av Aman](https://github.com/Amanej/gatsby-blog/raw/master/static/reviews/lendo/Design_1_Min_side.png "Lendo - Mine sider")
+
+![Lendo - Fullfør lån - Design av Aman](https://github.com/Amanej/gatsby-blog/raw/master/static/reviews/lendo/Design_2_Fullf%C3%B8r.png "Lendo - Fullførelse")
