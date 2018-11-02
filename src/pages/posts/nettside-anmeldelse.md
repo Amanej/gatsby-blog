@@ -28,5 +28,6 @@ Jeg er koder, designer og markedsføringshode i ett, som kan analysere opplevels
 
 ### Designforslag til Lendo
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/Amanej/gatsby-blog/blob/master/static/reviews/lendo/Design_1_Min_side.png "Logo Title Text 1")
 
+![alt text](https://github.com/Amanej/gatsby-blog/blob/master/static/reviews/lendo/Design_2_Fullf%C3%B8r.png "Logo Title Text 1")
