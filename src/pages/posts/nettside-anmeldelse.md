@@ -10,8 +10,8 @@ Dette er en kort nettsidekritikk eller brukeranmeldelse av lendo.no. I det siste
 Lendo har lenge vært en populær låneformidler / lånekalkulator som innhenter lånetilbud fra forskjellige banker. Ettersom det finnes ganske mange av disse om dagen valgte jeg å anmeldte en jeg nylig hadde brukt.
 
 ## TLDR / Oppsummering
-* Forside er pen
-* Innlogget / Søknadsbehandling side ser dårlig ut
+* Forsiden er pen
+* Innlogget / Søknadsbehandling siden ser dårlig ut
 * * Pikslerte bilder / Lav oppløsning på logoer
 * * Dårlig oppstilling av info
 * * Gammelt design
@@ -23,12 +23,12 @@ Lendo har lenge vært en populær låneformidler / lånekalkulator som innhenter
 
 ## Tiltak
 
-Trenger dere Lendo eller noen andre hjelpe med å optimalisere nettsiden deres for å høyest mulig konvertering og god brukeropplevelse, så kan dere kontakte meg.
-Jeg er koder, designer og markedsføringshode i ett, som kan analysere opplevelser, måltrakter og nett tjenester både kvalitativt og kvantitativt. Samtidig deretter raskt implementere forbedringer direkte nettsiden eller produktet deres.
+Trenger dere hos Lendo eller noen andre hjelpe med å optimalisere nettsiden deres for å få høyest mulig konvertering og god brukeropplevelse, så kan dere kontakte <a href="https://www.linkedin.com/in/aman-mender-92681b13/">meg</a>.
+Jeg er en utvikler, designer og markedsføringshode i ett, som kan analysere opplevelser, måltrakter og digitale tjenester både kvalitativt og kvantitativt. Deretter kan jeg raskt implementere forbedringer direkte på nettsiden eller produktet deres.
 
 ### Designforslag til Lendo
 
-Jeg er ikke bare kritisk, men konstruktiv så sketchet et raskt forslag på hvordan et ryddigere mine sider kunne sett ut for lendo.
+Jeg er ikke bare kritisk, men konstruktiv. Så jeg skisserte raskt forslag på hvordan en ryddigere 'Mine sider' kunne sett ut for lendo.
 
 ![Lendo - Mine sider - Design av Aman](https://github.com/Amanej/gatsby-blog/raw/master/static/reviews/lendo/Design_1_Min_side.png "Lendo - Mine sider")
 
