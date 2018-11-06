@@ -1,0 +1,18 @@
+.profileImage {
+    width: 25%;
+    float: left;
+    border-radius: 50%;
+}
+
+.aboutText {
+    display: inline-block;
+    width: 75%;
+    padding: 0 20px;
+    padding-top: 5%;
+    text-align: center;    
+}
+
+.aboutLink {
+    float: left;
+    width: 100%;    
+}
