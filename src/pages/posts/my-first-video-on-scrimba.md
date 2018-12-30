@@ -1,6 +1,7 @@
 ---
 title : "My First Video Tutorial on Scrimba"
 date : "2018-12-29"
+tags: ['coding','tutorials','screencasting','scrimba']
 ---
 
 <!--tags: "scrimba","screencasting","tutorial"-->
