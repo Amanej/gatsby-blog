@@ -1,7 +1,8 @@
 ---
 title : Nettside Anmeldelse - 002
 date : "2018-11-02"
-tags: "webdev, sitereview, ux, design, sitecritique, nettsideanmeldelse, norsk"
+tags: ["webdev", "sitereview", "ux", "design", "sitecritique", "nettsideanmeldelse", "norsk"]
+lang: 'no'
 ---
 
 ## Beskrivelse

@@ -2,9 +2,9 @@
 title : "My First Video Tutorial on Scrimba"
 date : "2018-12-29"
 tags: ['coding','tutorials','screencasting','scrimba']
+lang: 'en'
 ---
 
-<!--tags: "scrimba","screencasting","tutorial"-->
 This Christmas season I tested out this Norwegian coding tutorial site called <a href="https://scrimba.com">Scrimba</a> which lets you stop and edit code in video.
 
 <iframe src="https://scrimba.com/c/cKqw6uD" width="100%" height="500px"></iframe>

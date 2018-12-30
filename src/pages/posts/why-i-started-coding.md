@@ -1,6 +1,8 @@
 ---
 title : "Why I started coding"
 date : "2018-02-26"
+tags: ["personal", "coding"]
+lang: 'en'
 ---
 
 Why I started coding

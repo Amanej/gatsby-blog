@@ -1,6 +1,8 @@
 ---
 title : "Why I love Node"
 date : "2018-03-14"
+tags: ["coding", "node", "personal"]
+lang: 'en'
 ---
 
 Why I love Node JS

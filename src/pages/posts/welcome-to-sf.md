@@ -1,7 +1,8 @@
 ---
 title : Welcome to SF
 date : "2018-10-21"
-tags: "travel, us, startup"
+tags: ["travel", "us", "startup"]
+lang: 'en'
 ---
 
 <img src="https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/06/20/105284147-GettyImages-673632588.1910x1000.jpg" /> 

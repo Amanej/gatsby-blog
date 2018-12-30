@@ -1,6 +1,8 @@
 ---
 title : Welcome To My Blog
 date : "2018-02-26"
+tags: ['personal','introduction']
+lang: 'en'
 ---
 
 Hi there!

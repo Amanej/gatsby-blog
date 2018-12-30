@@ -1,6 +1,8 @@
 ---
 title : My First Webpage
 date : "2018-05-04"
+tags: ['personal','coding']
+lang: 'en'
 ---
 
 I built my first webpage for a paying client in 2006. I had learned Dreamviewer early on, and built pages with it and Flash.
